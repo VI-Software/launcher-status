@@ -4,7 +4,7 @@ repo: launcher-status # The name of this repository
 
 sites:
   - name: VI Software API
-    url: https://api.visoftware.tech/servers
+    url: https://api.visoftware.tech/services/servers
     expectedStatusCodes:
       - 200  
   - name: VI Software Yggdrasil Auth Server
