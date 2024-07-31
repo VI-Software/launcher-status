@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.tech.ico",
     "slug": "vi-software-api",
     "status": "up",
-    "uptime": "9.43%",
-    "uptimeDay": "9.43%",
-    "uptimeWeek": "9.43%",
-    "uptimeMonth": "9.43%",
-    "uptimeYear": "9.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 10284,
     "timeDay": 10284,
     "timeWeek": 10284,
     "timeMonth": 10284,
     "timeYear": 10284,
-    "dailyMinutesDown": {
-      "2024-07-31": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VI Software Yggdrasil Auth Server",
