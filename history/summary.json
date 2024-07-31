@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.tech.ico",
     "slug": "vi-software-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10284,
-    "timeDay": 10284,
-    "timeWeek": 10284,
-    "timeMonth": 10284,
-    "timeYear": 10284,
-    "dailyMinutesDown": {}
+    "uptime": "76.70%",
+    "uptimeDay": "76.70%",
+    "uptimeWeek": "76.70%",
+    "uptimeMonth": "76.70%",
+    "uptimeYear": "76.70%",
+    "time": 13361,
+    "timeDay": 13361,
+    "timeWeek": 13361,
+    "timeMonth": 13361,
+    "timeYear": 13361,
+    "dailyMinutesDown": {
+      "2024-07-31": 8
+    }
   },
   {
     "name": "VI Software Yggdrasil Auth Server",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.visoftware.tech.ico",
     "slug": "vi-software-yggdrasil-auth-server",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10074,
-    "timeDay": 10074,
-    "timeWeek": 10074,
-    "timeMonth": 10074,
-    "timeYear": 10074,
-    "dailyMinutesDown": {}
+    "uptime": "52.42%",
+    "uptimeDay": "52.42%",
+    "uptimeWeek": "52.42%",
+    "uptimeMonth": "52.42%",
+    "uptimeYear": "52.42%",
+    "time": 13360,
+    "timeDay": 13360,
+    "timeWeek": 13360,
+    "timeMonth": 13360,
+    "timeYear": 13360,
+    "dailyMinutesDown": {
+      "2024-07-31": 15
+    }
   },
   {
     "name": "VI Software CDN",
@@ -41,17 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.visoftware.tech.ico",
     "slug": "vi-software-cdn",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10017,
-    "timeDay": 10017,
-    "timeWeek": 10017,
-    "timeMonth": 10017,
-    "timeYear": 10017,
-    "dailyMinutesDown": {}
+    "uptime": "61.72%",
+    "uptimeDay": "61.72%",
+    "uptimeWeek": "61.72%",
+    "uptimeMonth": "61.72%",
+    "uptimeYear": "61.72%",
+    "time": 13170,
+    "timeDay": 13170,
+    "timeWeek": 13170,
+    "timeMonth": 13170,
+    "timeYear": 13170,
+    "dailyMinutesDown": {
+      "2024-07-31": 13
+    }
   },
   {
     "name": "VI Software PUF",
@@ -59,17 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/puf.visoftware.tech.ico",
     "slug": "vi-software-puf",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
-    "dailyMinutesDown": {}
+    "uptime": "71.27%",
+    "uptimeDay": "71.27%",
+    "uptimeWeek": "71.27%",
+    "uptimeMonth": "71.27%",
+    "uptimeYear": "71.27%",
+    "time": 6846,
+    "timeDay": 6846,
+    "timeWeek": 6846,
+    "timeMonth": 6846,
+    "timeYear": 6846,
+    "dailyMinutesDown": {
+      "2024-07-31": 9
+    }
   },
   {
     "name": "VI Software PUF Nightly",
@@ -77,17 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nightly-puf.visoftware.tech.ico",
     "slug": "vi-software-puf-nightly",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10417,
-    "timeDay": 10417,
-    "timeWeek": 10417,
-    "timeMonth": 10417,
-    "timeYear": 10417,
-    "dailyMinutesDown": {}
+    "uptime": "80.80%",
+    "uptimeDay": "80.80%",
+    "uptimeWeek": "80.80%",
+    "uptimeMonth": "80.80%",
+    "uptimeYear": "80.80%",
+    "time": 13632,
+    "timeDay": 13632,
+    "timeWeek": 13632,
+    "timeMonth": 13632,
+    "timeYear": 13632,
+    "dailyMinutesDown": {
+      "2024-07-31": 6
+    }
   },
   {
     "name": "VI Software Skin Rendering Service",
@@ -100,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10092,
-    "timeDay": 10092,
-    "timeWeek": 10092,
-    "timeMonth": 10092,
-    "timeYear": 10092,
+    "time": 13331,
+    "timeDay": 13331,
+    "timeWeek": 13331,
+    "timeMonth": 13331,
+    "timeYear": 13331,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 497,
+    "timeDay": 497,
+    "timeWeek": 497,
+    "timeMonth": 497,
+    "timeYear": 497,
     "dailyMinutesDown": {}
   }
 ]
