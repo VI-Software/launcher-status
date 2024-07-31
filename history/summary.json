@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.visoftware.tech.ico",
     "slug": "vi-software-api",
     "status": "up",
-    "uptime": "76.70%",
-    "uptimeDay": "76.70%",
-    "uptimeWeek": "76.70%",
-    "uptimeMonth": "76.70%",
-    "uptimeYear": "76.70%",
+    "uptime": "58.05%",
+    "uptimeDay": "58.05%",
+    "uptimeWeek": "58.05%",
+    "uptimeMonth": "58.05%",
+    "uptimeYear": "58.05%",
     "time": 13361,
     "timeDay": 13361,
     "timeWeek": 13361,
     "timeMonth": 13361,
     "timeYear": 13361,
     "dailyMinutesDown": {
-      "2024-07-31": 8
+      "2024-07-31": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://authserver.visoftware.tech",
     "icon": "https://icons.duckduckgo.com/ip3/authserver.visoftware.tech.ico",
     "slug": "vi-software-yggdrasil-auth-server",
-    "status": "up",
-    "uptime": "52.42%",
-    "uptimeDay": "52.42%",
-    "uptimeWeek": "52.42%",
-    "uptimeMonth": "52.42%",
-    "uptimeYear": "52.42%",
+    "status": "down",
+    "uptime": "42.12%",
+    "uptimeDay": "42.12%",
+    "uptimeWeek": "42.12%",
+    "uptimeMonth": "42.12%",
+    "uptimeYear": "42.12%",
     "time": 13360,
     "timeDay": 13360,
     "timeWeek": 13360,
     "timeMonth": 13360,
     "timeYear": 13360,
     "dailyMinutesDown": {
-      "2024-07-31": 15
+      "2024-07-31": 28
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://cdn.visoftware.tech",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.visoftware.tech.ico",
     "slug": "vi-software-cdn",
-    "status": "up",
-    "uptime": "61.72%",
-    "uptimeDay": "61.72%",
-    "uptimeWeek": "61.72%",
-    "uptimeMonth": "61.72%",
-    "uptimeYear": "61.72%",
+    "status": "down",
+    "uptime": "47.31%",
+    "uptimeDay": "47.31%",
+    "uptimeWeek": "47.31%",
+    "uptimeMonth": "47.31%",
+    "uptimeYear": "47.31%",
     "time": 13170,
     "timeDay": 13170,
     "timeWeek": 13170,
     "timeMonth": 13170,
     "timeYear": 13170,
     "dailyMinutesDown": {
-      "2024-07-31": 13
+      "2024-07-31": 25
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/puf.visoftware.tech.ico",
     "slug": "vi-software-puf",
     "status": "up",
-    "uptime": "71.27%",
-    "uptimeDay": "71.27%",
-    "uptimeWeek": "71.27%",
-    "uptimeMonth": "71.27%",
-    "uptimeYear": "71.27%",
+    "uptime": "54.66%",
+    "uptimeDay": "54.66%",
+    "uptimeWeek": "54.66%",
+    "uptimeMonth": "54.66%",
+    "uptimeYear": "54.66%",
     "time": 6846,
     "timeDay": 6846,
     "timeWeek": 6846,
     "timeMonth": 6846,
     "timeYear": 6846,
     "dailyMinutesDown": {
-      "2024-07-31": 9
+      "2024-07-31": 22
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://nightly-puf.visoftware.tech",
     "icon": "https://icons.duckduckgo.com/ip3/nightly-puf.visoftware.tech.ico",
     "slug": "vi-software-puf-nightly",
-    "status": "up",
-    "uptime": "80.80%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "80.80%",
-    "uptimeYear": "80.80%",
+    "status": "down",
+    "uptime": "60.28%",
+    "uptimeDay": "60.28%",
+    "uptimeWeek": "60.28%",
+    "uptimeMonth": "60.28%",
+    "uptimeYear": "60.28%",
     "time": 13632,
     "timeDay": 13632,
     "timeWeek": 13632,
     "timeMonth": 13632,
     "timeYear": 13632,
     "dailyMinutesDown": {
-      "2024-07-31": 6
+      "2024-07-31": 18
     }
   },
   {
@@ -105,17 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/skins.visoftware.tech.ico",
     "slug": "vi-software-skin-rendering-service",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "73.82%",
+    "uptimeDay": "73.82%",
+    "uptimeWeek": "73.82%",
+    "uptimeMonth": "73.82%",
+    "uptimeYear": "73.82%",
     "time": 13331,
     "timeDay": 13331,
     "timeWeek": 13331,
     "timeMonth": 13331,
     "timeYear": 13331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 12
+    }
   },
   {
     "name": "VI Software Docs",
