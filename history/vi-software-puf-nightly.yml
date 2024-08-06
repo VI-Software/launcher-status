@@ -1,7 +1,7 @@
 url: https://nightly-puf.visoftware.tech
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2024-08-05T23:15:27.381Z
+status: down
+code: 502
+responseTime: 353
+lastUpdated: 2024-08-06T11:19:53.800Z
 startTime: 2024-07-31T17:47:26.889Z
 generator: Upptime <https://github.com/upptime/upptime>
